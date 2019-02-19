@@ -1,0 +1,7 @@
+use calendario
+# clave Sofia1
+db.usuarios.insert({"username":"ANDREA","clave":"sha1$c12a15a6$1$6b4539fb3c32b4c4933659a8ff53bdca984a9691"})
+# clave Ariana2
+db.usuarios.insert({"username":"DARIO","clave":"sha1$28ba4d96$1$2185bc3885e1c1f84dddc3f29d52ae8d20d3a646"})
+# clave Ivan3
+db.usuarios.insert({"username":"XAVIER", "clave":"sha1$808b1600$1$8520eb517a72ddb5cde91dd348b6ca985c517877"})
